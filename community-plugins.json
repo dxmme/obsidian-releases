@@ -12656,5 +12656,13 @@
         "author": "imfenghuang",
         "description": "Animating code blocks with markdown and code syntax highlighting with beautiful themes.",
         "repo": "imfenghuang/obsidian-magic-move"
+    },
+    {
+	  "id": "color-picker",
+	  "name": "Color Picker",
+	  "author": "dxmme",
+	  "description": "A plugin to pick text colors from a dropdown menu with hotkey.",
+	  "repo": "dxmme/obsidian-color-picker"
     }
+
 ]
